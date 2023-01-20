@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\source\RevitApps\Lab_3-4_Pipe_parameter.dll"</Assembly>
+		<AddInId>0B92D44F-F6B6-4EDF-85C3-0A5833FE4A98</AddInId>
+		<FullClassName>Lab_3_4_Pipe_parameter.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Параметр-диаметры труб</Text>
+	</AddIn>
+</RevitAddIns>
